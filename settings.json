@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pandesalsmp-9hvI.aternos.me",
-    "port": 32804,
+    "ip": "BackToZero.aternos.me",
+    "port": 22967,
     "version": "",
     "try-creative": false
   },
